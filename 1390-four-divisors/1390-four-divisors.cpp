@@ -15,7 +15,7 @@ public:
                         count++;
                     }
                 }
-                if(count==4) break;
+                if(count>4) break;
             }
             if(count==4) sum += s;
         }
