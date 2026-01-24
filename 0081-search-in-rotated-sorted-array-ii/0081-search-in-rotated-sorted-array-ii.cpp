@@ -10,6 +10,7 @@ public:
             else if(nums[low]==nums[mid] && nums[mid]==nums[high]){
                 low++;
                 high--;
+                continue;
             }
             // left side sorted //
             else if(nums[low]<=nums[mid]){
