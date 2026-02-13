@@ -1,4 +1,4 @@
-// brute force
+// binary search //
 class Solution {
 public:
 int req(vector<int>& weights, int cap){
@@ -30,10 +30,16 @@ int sumofele(vector<int>& weights){
     int shipWithinDays(vector<int>& weights, int days) {
         int low = maxele(weights);
         int high = sumofele(weights);
-        for(int i=low;i<=high;i++){
-            int daysreq = req(weights,i);
-            if(daysreq<=days) return i;
+        int ans = -1;
+        while(low<=high){
+            int mid = (low + high)/2;
+            int daysreq = req(weights, mid);
+            if(daysreq <= days){
+                ans = mid;
+                high = mid - 1;
+            }
+            else low = mid + 1;
         }
-        return -1;
+        return ans;
     }
 };
