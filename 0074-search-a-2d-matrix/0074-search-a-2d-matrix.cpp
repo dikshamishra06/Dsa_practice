@@ -1,3 +1,4 @@
+//byy binary search //
 class Solution {
 public:
 bool checktarget(vector<int>& matrix,int n, int target){
@@ -15,7 +16,9 @@ bool checktarget(vector<int>& matrix,int n, int target){
         int m = matrix.size();   // no. of rows
         int n = matrix[0].size(); // no. of columns
         for(int i=0;i<m;i++){
-            if(checktarget(matrix[i],n,target)==true) return true;
+            if(matrix[i][0]<=target && target<=matrix[i][n-1]){
+               if(checktarget(matrix[i],n,target)==true) return true;
+            }
         }
         return false;
     }
