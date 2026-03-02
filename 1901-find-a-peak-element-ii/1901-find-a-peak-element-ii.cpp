@@ -1,3 +1,4 @@
+// by binary search //
 class Solution {
 public:
 int maxele(vector<vector<int>>& mat, int n, int mid){
