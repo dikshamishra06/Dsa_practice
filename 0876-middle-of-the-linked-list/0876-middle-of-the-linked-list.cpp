@@ -1,4 +1,4 @@
-// iterative method //
+// slow and fast pointer //
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -12,21 +12,12 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* temp = head;
-        int length = 0;
-        while(temp!=nullptr){
-            length++;
-            temp = temp->next;
+        ListNode* s = head;
+        ListNode* f = head;
+        while(f !=nullptr && f->next !=nullptr){
+            s = s->next;
+            f = f->next->next;
         }
-        int middle = (length/2)+1;
-        temp = head;
-        while(temp!=nullptr){
-            middle = middle-1;
-            if(middle==0){
-                break;
-            }
-            temp = temp->next;
-        }
-        return temp;
-    }    
+        return s;
+    }
 };
