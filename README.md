@@ -25,3 +25,15 @@ It’s a personal record of my problem-solving journey and a resource for learni
 - Building **daily consistency** in DSA practice  
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+<!---LeetCode Topics End-->
