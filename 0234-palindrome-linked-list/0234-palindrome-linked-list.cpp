@@ -1,3 +1,4 @@
+// brute force //
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -19,23 +20,10 @@ public:
             temp = temp->next;
         }
         temp = head;
-        ListNode* rev = new ListNode(st.top());
-        ListNode* prev = rev;
-        st.pop();
-        temp= temp->next;
-        while(temp != nullptr){
-            ListNode* s = new ListNode(st.top());
-            st.pop();
-            temp = temp->next;
-            prev->next = s;
-            prev = prev->next;
-        }
-        temp = head;
-        prev = rev;
         while(temp!=nullptr){
-            if(temp->val != prev->val) return false;
+            if(temp->val != st.top()) return false;
             temp = temp->next;
-            prev = prev->next;
+            st.pop();
         }
         return true;
     }
