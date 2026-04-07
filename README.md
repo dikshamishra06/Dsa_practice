@@ -38,6 +38,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0142-linked-list-cycle-ii](https://github.com/dikshamishra06/Dsa_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
