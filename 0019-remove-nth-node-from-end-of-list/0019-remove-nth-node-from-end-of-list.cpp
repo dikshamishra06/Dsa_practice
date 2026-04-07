@@ -1,4 +1,4 @@
-// brute force //
+//  optimal
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -12,26 +12,23 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* temp = head;
-        int length = 0;
-        while(temp!=nullptr){
-            length++;
-            temp = temp->next;
+        ListNode* fast = head;
+        ListNode* slow = head;
+        for(int i=0;i<n;i++){
+            fast = fast->next;
         }
-        if(length == n){
+        if(fast==nullptr){
             ListNode* node = head->next;
             delete head;
             return node;
         }
-        int ele = length - n;
-        temp = head;
-        while(temp!=nullptr){
-            ele--;
-            if(ele == 0) break;
-            temp = temp->next;
+
+        while(fast->next!=nullptr){
+            slow = slow->next;
+            fast = fast->next;
         }
-        ListNode* deletenode = temp->next;
-        temp->next = temp->next->next;
+        ListNode* deletenode = slow->next;
+        slow->next = slow->next->next;
         delete deletenode;
         return head;
     }
