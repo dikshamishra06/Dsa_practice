@@ -48,6 +48,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0142-linked-list-cycle-ii](https://github.com/dikshamishra06/Dsa_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dikshamishra06/Dsa_practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
@@ -65,4 +66,8 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
