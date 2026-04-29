@@ -6,18 +6,11 @@ public:
         int i = 0;
         int j = n-1;
         while(i<j){
-            int length = j-i;
-            int water = 0;
-            if(nums[i]<nums[j]){
-                water = nums[i]*length;
-                i++;
-            }
-            else{
-                water = nums[j]*length;
-                j--;
-            }
-            length--;
-            maxwater = max(maxwater,water);
+            int width = j-i;
+            int heigth = min(nums[i],nums[j]);
+            maxwater = max(maxwater,(width*heigth));
+            if(nums[i]<nums[j]) i++;
+            else j--;
         }
         return maxwater;
     }
