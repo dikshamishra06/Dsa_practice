@@ -43,6 +43,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/dikshamishra06/Dsa_practice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -71,6 +72,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshamishra06/Dsa_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
@@ -81,5 +83,6 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
