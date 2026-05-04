@@ -46,6 +46,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/dikshamishra06/Dsa_practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dikshamishra06/Dsa_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -69,12 +70,14 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshamishra06/Dsa_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
@@ -91,4 +94,12 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
