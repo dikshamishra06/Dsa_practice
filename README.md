@@ -81,6 +81,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshamishra06/Dsa_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/dikshamishra06/Dsa_practice/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
