@@ -13,9 +13,9 @@ public:
                 if(nums[left]==0) zero--;
                 left++;
             }
-            //maxlength = max(maxlength,i-left+1);
+            maxlength = max(maxlength,i-left+1);
         }
-        //return maxlength;
-        return n-left;
+        return maxlength;
+        //return n-left;
     }
 };
