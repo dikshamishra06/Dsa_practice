@@ -67,6 +67,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0141-linked-list-cycle](https://github.com/dikshamishra06/Dsa_practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dikshamishra06/Dsa_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dikshamishra06/Dsa_practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0209-minimum-size-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/dikshamishra06/Dsa_practice/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -122,6 +124,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
