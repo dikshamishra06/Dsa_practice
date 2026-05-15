@@ -4,7 +4,6 @@ public:
         int n = nums.size();
         int left = 0;
         int right = 0;
-        int ans = -1;
         vector<int>v;
         int sum = 0;
         for(int i=0;i<n;i++){
@@ -19,6 +18,6 @@ public:
             }
             left = v[i];
         }
-        return ans;
+        return -1;
     }
 };
