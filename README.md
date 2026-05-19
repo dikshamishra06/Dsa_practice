@@ -29,8 +29,8 @@ It’s a personal record of my problem-solving journey and a resource for learni
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/dikshamishra06/Dsa_practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dikshamishra06/Dsa_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -41,8 +41,8 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -57,27 +57,28 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0206-reverse-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/dikshamishra06/Dsa_practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dikshamishra06/Dsa_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dikshamishra06/Dsa_practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dikshamishra06/Dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
@@ -92,52 +93,54 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dikshamishra06/Dsa_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dikshamishra06/Dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/dikshamishra06/Dsa_practice/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshamishra06/Dsa_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/dikshamishra06/Dsa_practice/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/dikshamishra06/Dsa_practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dikshamishra06/Dsa_practice/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dikshamishra06/Dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
