@@ -59,6 +59,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dikshamishra06/Dsa_practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
@@ -144,5 +145,6 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dikshamishra06/Dsa_practice/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
