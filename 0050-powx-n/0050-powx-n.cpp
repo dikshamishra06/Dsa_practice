@@ -3,9 +3,7 @@ public:
 double power(double x, long n, double ans){
     if(n<=0) return ans;
     if(n%2!=0) ans *= x;
-    x *= x;
-    n /= 2;
-    return power(x,n,ans); 
+    return power(x*x,n/2,ans); 
 }
     double myPow(double x, int n) {
         long exp = n;
