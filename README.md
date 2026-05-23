@@ -120,6 +120,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
@@ -148,10 +149,12 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dikshamishra06/Dsa_practice/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
