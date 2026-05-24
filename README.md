@@ -120,6 +120,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/dikshamishra06/Dsa_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
@@ -149,6 +150,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dikshamishra06/Dsa_practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/dikshamishra06/Dsa_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -157,4 +159,8 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | ------- |
 | [0070-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dikshamishra06/Dsa_practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
