@@ -93,6 +93,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0485-max-consecutive-ones](https://github.com/dikshamishra06/Dsa_practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/dikshamishra06/Dsa_practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dikshamishra06/Dsa_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -104,6 +105,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshamishra06/Dsa_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0704-binary-search](https://github.com/dikshamishra06/Dsa_practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/dikshamishra06/Dsa_practice/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
