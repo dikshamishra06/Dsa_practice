@@ -1,16 +1,16 @@
 class Solution {
 public:
-int check(vector<int>& nums,int l, int r, int target){
-    if(l>r) return -1;
-    int mid = l+(r-l)/2;
+int midCheck(vector<int>& nums, int low, int high, int target){
+    if(high<low) return -1;
+    int mid = low + (high-low)/2;
     if(nums[mid]==target) return mid;
-    else if(nums[mid]<target) return check(nums,mid+1,r,target);
-    return check(nums,l,mid-1,target);
+    if(nums[mid]<target) return midCheck(nums,mid+1,high,target);
+    return midCheck(nums,low,mid-1,target);
 }
     int search(vector<int>& nums, int target) {
         int n = nums.size();
-        int l = 0; 
-        int r = n-1;
-        return check(nums,l,r,target);
+        int low = 0;
+        int high = n-1;
+        return midCheck(nums,low,high,target);
     }
 };
