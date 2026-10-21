@@ -1,14 +1,13 @@
 class Solution {
 public:
-int countWays(vector<int>& v, int n){
-    if(n<=3) return n;
-    if(v[n]!=0){
-        return v[n];
-    }
-    return v[n] = countWays(v,n-1) + countWays(v,n-2);
-}
     int climbStairs(int n) {
-        vector<int>ans(n+1);
-        return countWays(ans,n);
+        if(n==1 || n==2) return n;
+        vector<int>dp(n+1);
+        dp[1] = 1;
+        dp[2] = 2;
+        for(int i=3;i<=n;i++){
+            dp[i] = dp[i-1] +  dp[i-2];
+        }
+        return dp[n];
     }
 };
