@@ -1,14 +1,18 @@
 class Solution {
 public:
-int getFib(vector<int>& v, int n){
+int getFib(int n){
     if(n<=1) return n;
-    if(v[n]!=-1){
-        return v[n];
+    int prev0 = 0;
+    int prev1 = 1;
+    for(int i=2;i<=n;i++){
+        int temp = prev0 + prev1;
+        prev0 = prev1;
+        prev1 = temp;
     }
-    return v[n] = getFib(v,n-1) + getFib(v,n-2);
+    return prev1;
 }
     int fib(int n) {
-        vector<int>store(n+1,-1);
-        return getFib(store,n);
+        
+        return getFib(n);
     }
 };
