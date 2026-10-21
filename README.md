@@ -89,6 +89,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshamishra06/Dsa_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/dikshamishra06/Dsa_practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/dikshamishra06/Dsa_practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/dikshamishra06/Dsa_practice/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -127,6 +128,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0070-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dikshamishra06/Dsa_practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
