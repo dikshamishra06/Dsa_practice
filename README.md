@@ -98,6 +98,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0704-binary-search](https://github.com/dikshamishra06/Dsa_practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dikshamishra06/Dsa_practice/tree/main/0724-find-pivot-index/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dikshamishra06/Dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -130,6 +131,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0198-house-robber](https://github.com/dikshamishra06/Dsa_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0746-min-cost-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
