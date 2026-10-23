@@ -171,4 +171,12 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dikshamishra06/Dsa_practice/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
