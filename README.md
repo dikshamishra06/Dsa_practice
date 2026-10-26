@@ -55,6 +55,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/dikshamishra06/Dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0746-min-cost-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dikshamishra06/Dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/dikshamishra06/Dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/dikshamishra06/Dsa_practice/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Binary Search
@@ -117,6 +119,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | ------- |
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/dikshamishra06/Dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
