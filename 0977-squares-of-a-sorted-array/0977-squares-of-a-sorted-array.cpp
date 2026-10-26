@@ -12,6 +12,7 @@ public:
         }
         if(b.size()==0) return a;
         reverse(b.begin(),b.end());
+        if(a.size()==0) return b;
         int i = 0;
         int j = 0;
         int idx = 0;
