@@ -10,6 +10,7 @@ public:
             }
             else b.push_back(nums[i]*nums[i]);
         }
+        if(b.size()==0) return a;
         reverse(b.begin(),b.end());
         int i = 0;
         int j = 0;
