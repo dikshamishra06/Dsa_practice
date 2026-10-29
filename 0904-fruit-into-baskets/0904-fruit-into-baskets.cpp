@@ -7,7 +7,7 @@ public:
         unordered_map<int,int>map;
         for(int r=0;r<n;r++){
             map[nums[r]]++;
-            if(map.size()>2){
+            while(map.size()>2){
                 map[nums[l]]--;
                 if(map[nums[l]]==0){
                     map.erase(nums[l]);
