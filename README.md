@@ -189,4 +189,8 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/dikshamishra06/Dsa_practice/tree/master/0992-subarrays-with-k-different-integers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
