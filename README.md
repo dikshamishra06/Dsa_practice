@@ -108,6 +108,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0992-subarrays-with-k-different-integers](https://github.com/dikshamishra06/Dsa_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/dikshamishra06/Dsa_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dikshamishra06/Dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2187-minimum-time-to-complete-trips](https://github.com/dikshamishra06/Dsa_practice/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Binary Search
 |  |
@@ -141,6 +142,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0509-fibonacci-number](https://github.com/dikshamishra06/Dsa_practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dikshamishra06/Dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
