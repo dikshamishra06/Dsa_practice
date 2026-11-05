@@ -56,6 +56,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/dikshamishra06/Dsa_practice/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/dikshamishra06/Dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -133,6 +134,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,4 +225,5 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | ------- |
 | [0125-valid-palindrome](https://github.com/dikshamishra06/Dsa_practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dikshamishra06/Dsa_practice/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
