@@ -56,6 +56,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0234-palindrome-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/dikshamishra06/Dsa_practice/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/dikshamishra06/Dsa_practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/dikshamishra06/Dsa_practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/dikshamishra06/Dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0213-house-robber-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/dikshamishra06/Dsa_practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/dikshamishra06/Dsa_practice/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/dikshamishra06/Dsa_practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dikshamishra06/Dsa_practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -130,11 +132,13 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | ------- |
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
+| [0455-assign-cookies](https://github.com/dikshamishra06/Dsa_practice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/dikshamishra06/Dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/dikshamishra06/Dsa_practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/dikshamishra06/Dsa_practice/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
@@ -197,6 +201,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/dikshamishra06/Dsa_practice/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
