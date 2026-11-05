@@ -91,6 +91,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dikshamishra06/Dsa_practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/dikshamishra06/Dsa_practice/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshamishra06/Dsa_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -138,6 +139,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/dikshamishra06/Dsa_practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/dikshamishra06/Dsa_practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/dikshamishra06/Dsa_practice/tree/master/0860-lemonade-change) |
@@ -146,6 +148,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dikshamishra06/Dsa_practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dikshamishra06/Dsa_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/0152-maximum-product-subarray) |
