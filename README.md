@@ -105,6 +105,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/dikshamishra06/Dsa_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/dikshamishra06/Dsa_practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/dikshamishra06/Dsa_practice/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/dikshamishra06/Dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dikshamishra06/Dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -135,6 +136,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 | ------- |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/dikshamishra06/Dsa_practice/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
