@@ -71,6 +71,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dikshamishra06/Dsa_practice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/dikshamishra06/Dsa_practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dikshamishra06/Dsa_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dikshamishra06/Dsa_practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -87,6 +88,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dikshamishra06/Dsa_practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dikshamishra06/Dsa_practice/tree/main/0042-trapping-rain-water/) | Hard |
