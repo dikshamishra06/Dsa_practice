@@ -17,10 +17,10 @@ public:
                     j++;
                     k--;
                 }
-                else if(sum>0) k--;
-                else j++;
+                else if(sum<0) j++;
+                else k--;
             }
         }
-        return ans;
+        return ans;    
     }
 };
