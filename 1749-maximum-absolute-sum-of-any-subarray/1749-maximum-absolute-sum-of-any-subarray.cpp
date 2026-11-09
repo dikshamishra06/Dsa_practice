@@ -1,34 +1,33 @@
 class Solution {
 public:
-int maxSum(vector<int>& nums){
+int maxSumSubarray(vector<int>& nums){
     int n = nums.size();
-    int bestEnding = nums[0];
+    int best = nums[0];
     int ans = nums[0];
     for(int i=1;i<n;i++){
-        int v1 = bestEnding + nums[i];
-        int v2 = nums[i];
-        bestEnding = max(v1,v2);
-        ans = max(ans,bestEnding);
+        int v1 = nums[i];
+        int v2 = best + nums[i];
+        best = max(v1,v2);
+        ans = max(ans,best);
     }
     return ans;
 }
-int minSum(vector<int>& nums){
+int minSumSubarray(vector<int>& nums){
     int n = nums.size();
-    int bestEnding = nums[0];
+    int best = nums[0];
     int ans = nums[0];
     for(int i=1;i<n;i++){
-        int v1 = bestEnding + nums[i];
-        int v2 = nums[i];
-        bestEnding = min(v1,v2);
-        ans = min(ans,bestEnding);
+        int v1 = nums[i];
+        int v2 = best + nums[i];
+        best = min(v1,v2);
+        ans = min(ans,best);
     }
     return ans;
 }
     int maxAbsoluteSum(vector<int>& nums) {
-        int n = nums.size();
-        int maxSubarraySum = abs(maxSum(nums));
-        int minSubarraySum = abs(minSum(nums));
-        int ans = max(maxSubarraySum, minSubarraySum);
+        int maxVal = maxSumSubarray(nums);
+        int minVal = minSumSubarray(nums);
+        int ans = max(abs(maxVal), abs(minVal));
         return ans;
     }
 };
