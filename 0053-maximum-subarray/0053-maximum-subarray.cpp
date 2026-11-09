@@ -9,7 +9,7 @@ public:
             int v2 = nums[i];
             maxEnding = max(v1,v2);
             ans = max(ans,maxEnding);
-        }    
+        }
         return ans;
     }
 };
