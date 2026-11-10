@@ -5,18 +5,17 @@ public:
         int five = 0;
         int ten = 0;
         for(int i=0;i<n;i++){
-            int money = bills[i];
-            if(money==5) five++;
-            else if(money==10){
+            if(bills[i]==5) five++;
+            else if(bills[i]==10){
                 if(five==0) return false;
                 five--;
                 ten++;
             }
-            else if(money==20){
+            else if(bills[i]==20){
                 if(ten>0){
                     if(five==0) return false;
-                    ten--;
                     five--;
+                    ten--;
                 }
                 else{
                     if(five<3) return false;
