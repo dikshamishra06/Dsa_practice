@@ -3,12 +3,13 @@ public:
     int minCostClimbingStairs(vector<int>& nums) {
         int n = nums.size();
         if(n==0||n==1) return 0;
-        vector<int>dp(n+1,-1);
-        dp[0] = 0;
-        dp[1] = 0;
+        int prev1 = 0;
+        int prev2 = 0;
         for(int i=2;i<n+1;i++){
-            dp[i] = min((dp[i-1] + nums[i-1]),(dp[i-2] + nums[i-2]));
+            int temp = min((prev2 + nums[i-1]),(prev1 + nums[i-2]));
+            prev1 = prev2;
+            prev2 = temp;
         }
-        return dp[n];
+        return prev2;
     }
 };
