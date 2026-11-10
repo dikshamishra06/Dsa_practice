@@ -1,14 +1,13 @@
 class Solution {
 public:
+int ways(vector<int>& store,int n){
+    if(n<=3) return n;
+    if(store[n]!=-1) return store[n];
+    store[n] = ways(store,n-1) + ways(store,n-2);
+    return store[n];
+}
     int climbStairs(int n) {
-        if(n<=3) return n;
-        int s1 = 2;
-        int s2 = 3;
-        for(int i=4;i<=n;i++){
-            int temp = s1 + s2;
-            s1 = s2;
-            s2 = temp;
-        }
-        return s2;
+        vector<int>store(n+1,-1);
+        return ways(store,n);
     }
 };
