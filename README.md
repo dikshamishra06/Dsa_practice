@@ -72,6 +72,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dikshamishra06/Dsa_practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dikshamishra06/Dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/dikshamishra06/Dsa_practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dikshamishra06/Dsa_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dikshamishra06/Dsa_practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -168,6 +169,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dikshamishra06/Dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/dikshamishra06/Dsa_practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dikshamishra06/Dsa_practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/dikshamishra06/Dsa_practice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -236,6 +238,7 @@ It’s a personal record of my problem-solving journey and a resource for learni
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dikshamishra06/Dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/dikshamishra06/Dsa_practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dikshamishra06/Dsa_practice/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/dikshamishra06/Dsa_practice/tree/master/0680-valid-palindrome-ii) |
